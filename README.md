@@ -1,4 +1,4 @@
-# Online Train Ticket Reservation System (Python + MySQL + Tkinter)
+# Train Ticket Reservation System (Python + MySQL + Tkinter)
 
 A GUI-based train ticket reservation system using **Python (Tkinter)** and **MySQL**.
 
